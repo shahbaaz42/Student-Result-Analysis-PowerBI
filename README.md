@@ -81,7 +81,7 @@ This repository contains a fully interactive Power BI dashboard for analyzing st
 
 ---
 
-📥 How to Use
+## 📥 How to Use
 
 - Download the repository.
 - Open Result_Analysis.pbix in Power BI Desktop.
